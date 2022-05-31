@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pushpdant/BOX-OFFICE.git/static/css/main.e622dbdd.chunk.css",
+    "main.js": "/pushpdant/BOX-OFFICE.git/static/js/main.b91e4762.chunk.js",
+    "main.js.map": "/pushpdant/BOX-OFFICE.git/static/js/main.b91e4762.chunk.js.map",
+    "runtime-main.js": "/pushpdant/BOX-OFFICE.git/static/js/runtime-main.484fe84a.js",
+    "runtime-main.js.map": "/pushpdant/BOX-OFFICE.git/static/js/runtime-main.484fe84a.js.map",
+    "static/js/2.3432871f.chunk.js": "/pushpdant/BOX-OFFICE.git/static/js/2.3432871f.chunk.js",
+    "static/js/2.3432871f.chunk.js.map": "/pushpdant/BOX-OFFICE.git/static/js/2.3432871f.chunk.js.map",
+    "index.html": "/pushpdant/BOX-OFFICE.git/index.html",
+    "static/css/main.e622dbdd.chunk.css.map": "/pushpdant/BOX-OFFICE.git/static/css/main.e622dbdd.chunk.css.map",
+    "static/js/2.3432871f.chunk.js.LICENSE.txt": "/pushpdant/BOX-OFFICE.git/static/js/2.3432871f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.484fe84a.js",
+    "static/js/2.3432871f.chunk.js",
+    "static/css/main.e622dbdd.chunk.css",
+    "static/js/main.b91e4762.chunk.js"
+  ]
+}
